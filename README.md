@@ -1,4 +1,4 @@
-# realityhack2023
+# Reality Hack 2023 - Table 42
 
 ## The Team
 
